@@ -21,19 +21,12 @@ export default function Footer(props) {
         <nav className="level">
           <div className="level-item has-text-centered">
             <Copyright />
-            <a
-              rel="noreferrer"
-              target="_blank"
-              href={`https://www.feedspot.com/infitierss.php?q=site:${process.env.BASE_URL}/rss.xml`}
-            >
-              Follow RSS
-            </a>
           </div>
           <div className="level-item has-text-centered">
             <a
               rel="noreferrer"
               target="_blank"
-              href={`https://feedspot.com/infitierss.php?q=site:${process.env.BASE_URL}/rss.xml`}
+              href={`https://www.feedspot.com/infitierss.php?q=site:${process.env.BASE_URL}/rss.xml`}
             >
               Follow RSS
             </a>
