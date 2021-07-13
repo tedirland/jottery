@@ -9,3 +9,5 @@ coverImage: https://files.cdn.thinkific.com/courses/course_card_image_000/846/12
 ---
 
 # Wery nice content
+
+![alt text](https://files.cdn.thinkific.com/courses/course_card_image_000/846/1201595605185.medium.png 'Logo Title Text 1')

@@ -10,6 +10,8 @@ coverImage: https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascr
 
 # h1 Heading 8-)
 
+![alt text](https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascript.jpg 'Logo Title Text 1')
+
 ## h2 Heading
 
 ### h3 Heading

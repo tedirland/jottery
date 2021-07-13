@@ -14,6 +14,8 @@ coverImage: https://import.cdn.thinkific.com/335268/L2JwqFccTlue3rilU5yK_react.j
 
 **This is bold text**
 
+![alt text](https://import.cdn.thinkific.com/335268/L2JwqFccTlue3rilU5yK_react.jpg 'Logo Title Text 1')
+
 _This is italic text_
 
 _This is italic text_

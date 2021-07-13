@@ -34,6 +34,7 @@ module.exports = {
       `,
         title: 'Civility News',
         output: '/rss.xml',
+        match: '^/blogs/',
       },
     ],
   },

@@ -10,6 +10,8 @@ coverImage: https://import.cdn.thinkific.com/335268/llo44iPiRBCsYnf3wYEk_c%23_Lo
 
 ## New Boot Goofin!
 
+![alt text](https://import.cdn.thinkific.com/335268/llo44iPiRBCsYnf3wYEk_c%23_Logo.jpg 'Logo Title Text 1')
+
 New Boot Goofin!
 
 ```

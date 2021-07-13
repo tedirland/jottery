@@ -1,3 +1,6 @@
-import './src/styles/global.scss';
+import React from 'react';
+import RootLayout from './src/components/RootLayout';
 
-import 'prismjs/themes/prism-solarizedlight.css';
+export const wrapRootElement = ({ element }) => (
+  <RootLayout>{element}</RootLayout>
+);
