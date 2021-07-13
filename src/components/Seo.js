@@ -24,8 +24,6 @@ export default function Seo({ title, image, description, meta = [] }) {
     image ||
     'https://files.cdn.thinkific.com/courses/course_card_image_000/896/4641598445801.medium.png';
 
-  //add og url later
-
   return (
     <Helmet
       htmlAttributes={{
@@ -33,6 +31,10 @@ export default function Seo({ title, image, description, meta = [] }) {
       }}
       title={defaultTitle}
       meta={[
+        {
+          name: 'google-site-verification',
+          content: '2MZt9qZtMNG-oHZ0K0Ak2Q1Pl9Faz7u75SpheBzpftY',
+        },
         {
           name: 'description',
           content: defaultDescription,
